@@ -13,7 +13,7 @@
                 <div class="card">
                     <div class="card-header">
                         {{-- <h4 class="card-title">Clients</h4> --}}
-                        <h5 class="">UPDATE DEPARTMENT FORM</h5>
+                        <h5 class="">UPDATE DEPARTMENT FORN</h5>
                         @if(Session::has('success'))
                             <div class="alert alert-success alert-dismissible fade show">
                                 {{ Session::get('success') }}
